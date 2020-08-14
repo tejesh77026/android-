@@ -1,4 +1,4 @@
-import java.lang.Integer.*
+
 
 fun main() {
     println("\tbasic calculator\n")
